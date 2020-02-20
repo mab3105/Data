@@ -45,7 +45,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/4/2017 00:00:00,12600.00,L2 & L3 N,Common Area
 1,1/4/2017 00:00:00,1447.00,L2 & L3 N,i) 258) L3 Core 1 Tenant NW Riser BD/TNW1L/L3
 1,1/4/2017 00:00:00,1222.00,Level 10,0) L10 Core 1 Tenant NW Riser BD/TNW1P/L10 & New
-1,1/4/2017 00:00:00,0.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10 & New
+1,1/4/2017 00:00:00,0.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10  & New
 1,1/4/2017 00:00:00,9162.00,Level 10,0) L10 Core 2 Comms supply & New
 1,1/4/2017 00:00:00,1071.00,Level 10,0) L10 Core 2 Tenant N Riser BD/TNW2P/L10 & New
 1,1/4/2017 00:00:00,1177.00,Level 10,191) L10 Core 1 Tenant NW Riser BD/TNW1L/L10
@@ -90,7 +90,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/5/2017 00:00:00,4969.00,L2 & L3 N,0) L3 Core 2 Tenant N Riser BD/TNW2L/L1
 1,1/5/2017 00:00:00,3247.00,L2 & L3 N,0) L3 Core 2 Tenant NW2 Riser BD/P
 1,1/5/2017 00:00:00,4637.00,L2 & L3 N,261) L3 Core 2 Tenant N Riser BD/TNW2L(P)/L3
-1,1/5/2017 00:00:00,8070.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 "new"
+1,1/5/2017 00:00:00,8070.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 new
 1,1/5/2017 00:00:00,3415.00,L2 & L3 N,268) L2 Core 1 Tenant NW Riser BD/TNW1L/L2
 1,1/5/2017 00:00:00,4529.00,L2 & L3 N,271) L2 Core 2 Tenant N Riser BD/TNW2L(P)/L2
 1,1/5/2017 00:00:00,2820.00,L2 & L3 N,272) L2 Core 1 Tenant NE Riser BD/TNE1L/L2
@@ -102,8 +102,8 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/5/2017 00:00:00,3456.00,L2 & L3 N,Central (Landlord's) Misc Plant/Equipment kWh
 1,1/5/2017 00:00:00,6265.00,L2 & L3 N,Common Area
 1,1/5/2017 00:00:00,1570.00,L2 & L3 N,i) 258) L3 Core 1 Tenant NW Riser BD/TNW1L/L3
-1,1/5/2017 00:00:00,2119.00,Level 10,0) L10 Core 1 Tenant NW Riser BD/TNW1P/L10 & New
-1,1/5/2017 00:00:00,0.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10 & New
+1,1/5/2017 00:00:00,2119.00,Level 10,0) L10 Core 1 Tenant NW Riser BD/TNW1P/L10 & new
+1,1/5/2017 00:00:00,0.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10  & new
 1,1/5/2017 00:00:00,7741.00,Level 10,0) L10 Core 2 Comms supply & New
 1,1/5/2017 00:00:00,1617.00,Level 10,0) L10 Core 2 Tenant N Riser BD/TNW2P/L10 & New
 1,1/5/2017 00:00:00,1770.00,Level 10,191) L10 Core 1 Tenant NW Riser BD/TNW1L/L10
@@ -148,7 +148,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/6/2017 00:00:00,5423.00,L2 & L3 N,0) L3 Core 2 Tenant N Riser BD/TNW2L/L1
 1,1/6/2017 00:00:00,3997.00,L2 & L3 N,0) L3 Core 2 Tenant NW2 Riser BD/P
 1,1/6/2017 00:00:00,5192.00,L2 & L3 N,261) L3 Core 2 Tenant N Riser BD/TNW2L(P)/L3
-1,1/6/2017 00:00:00,2886.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 "new"
+1,1/6/2017 00:00:00,2886.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 new
 1,1/6/2017 00:00:00,3495.00,L2 & L3 N,268) L2 Core 1 Tenant NW Riser BD/TNW1L/L2
 1,1/6/2017 00:00:00,5013.00,L2 & L3 N,271) L2 Core 2 Tenant N Riser BD/TNW2L(P)/L2
 1,1/6/2017 00:00:00,3311.00,L2 & L3 N,272) L2 Core 1 Tenant NE Riser BD/TNE1L/L2
@@ -161,7 +161,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/6/2017 00:00:00,8199.00,L2 & L3 N,Common Area
 1,1/6/2017 00:00:00,1568.00,L2 & L3 N,i) 258) L3 Core 1 Tenant NW Riser BD/TNW1L/L3
 1,1/6/2017 00:00:00,1977.00,Level 10,0) L10 Core 1 Tenant NW Riser BD/TNW1P/L10 & New
-1,1/6/2017 00:00:00,0.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10 & New
+1,1/6/2017 00:00:00,0.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10  & New
 1,1/6/2017 00:00:00,8024.00,Level 10,0) L10 Core 2 Comms supply & New
 1,1/6/2017 00:00:00,1050.00,Level 10,0) L10 Core 2 Tenant N Riser BD/TNW2P/L10 & New
 1,1/6/2017 00:00:00,1636.00,Level 10,191) L10 Core 1 Tenant NW Riser BD/TNW1L/L10
@@ -206,7 +206,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/7/2017 00:00:00,5362.00,L2 & L3 N,0) L3 Core 2 Tenant N Riser BD/TNW2L/L1
 1,1/7/2017 00:00:00,3906.00,L2 & L3 N,0) L3 Core 2 Tenant NW2 Riser BD/P
 1,1/7/2017 00:00:00,5142.00,L2 & L3 N,261) L3 Core 2 Tenant N Riser BD/TNW2L(P)/L3
-1,1/7/2017 00:00:00,3039.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 "new"
+1,1/7/2017 00:00:00,3039.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 new
 1,1/7/2017 00:00:00,3365.00,L2 & L3 N,268) L2 Core 1 Tenant NW Riser BD/TNW1L/L2
 1,1/7/2017 00:00:00,4731.00,L2 & L3 N,271) L2 Core 2 Tenant N Riser BD/TNW2L(P)/L2
 1,1/7/2017 00:00:00,2983.00,L2 & L3 N,272) L2 Core 1 Tenant NE Riser BD/TNE1L/L2
@@ -219,7 +219,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/7/2017 00:00:00,8637.00,L2 & L3 N,Common Area
 1,1/7/2017 00:00:00,1498.00,L2 & L3 N,i) 258) L3 Core 1 Tenant NW Riser BD/TNW1L/L3
 1,1/7/2017 00:00:00,1827.00,Level 10,0) L10 Core 1 Tenant NW Riser BD/TNW1P/L10 & New
-1,1/7/2017 00:00:00,2366.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10 & New
+1,1/7/2017 00:00:00,2366.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10  & New
 1,1/7/2017 00:00:00,843.00,Level 10,0) L10 Core 2 Comms supply & New
 1,1/7/2017 00:00:00,1012.00,Level 10,0) L10 Core 2 Tenant N Riser BD/TNW2P/L10 & New
 1,1/7/2017 00:00:00,1508.00,Level 10,191) L10 Core 1 Tenant NW Riser BD/TNW1L/L10
@@ -264,7 +264,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/8/2017 00:00:00,5802.00,L2 & L3 N,0) L3 Core 2 Tenant N Riser BD/TNW2L/L1
 1,1/8/2017 00:00:00,3955.00,L2 & L3 N,0) L3 Core 2 Tenant NW2 Riser BD/P
 1,1/8/2017 00:00:00,5643.00,L2 & L3 N,261) L3 Core 2 Tenant N Riser BD/TNW2L(P)/L3
-1,1/8/2017 00:00:00,3281.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 "new"
+1,1/8/2017 00:00:00,3281.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 new
 1,1/8/2017 00:00:00,3404.00,L2 & L3 N,268) L2 Core 1 Tenant NW Riser BD/TNW1L/L2
 1,1/8/2017 00:00:00,5661.00,L2 & L3 N,271) L2 Core 2 Tenant N Riser BD/TNW2L(P)/L2
 1,1/8/2017 00:00:00,3517.00,L2 & L3 N,272) L2 Core 1 Tenant NE Riser BD/TNE1L/L2
@@ -277,7 +277,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/8/2017 00:00:00,10851.00,L2 & L3 N,Common Area
 1,1/8/2017 00:00:00,1509.00,L2 & L3 N,i) 258) L3 Core 1 Tenant NW Riser BD/TNW1L/L3
 1,1/8/2017 00:00:00,1827.00,Level 10,0) L10 Core 1 Tenant NW Riser BD/TNW1P/L10 & New
-1,1/8/2017 00:00:00,2518.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10 & New
+1,1/8/2017 00:00:00,2518.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10  & New
 1,1/8/2017 00:00:00,94.00,Level 10,0) L10 Core 2 Comms supply & New
 1,1/8/2017 00:00:00,1114.00,Level 10,0) L10 Core 2 Tenant N Riser BD/TNW2P/L10 & New
 1,1/8/2017 00:00:00,1525.00,Level 10,191) L10 Core 1 Tenant NW Riser BD/TNW1L/L10
@@ -322,7 +322,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/9/2017 00:00:00,5404.00,L2 & L3 N,0) L3 Core 2 Tenant N Riser BD/TNW2L/L1
 1,1/9/2017 00:00:00,4016.00,L2 & L3 N,0) L3 Core 2 Tenant NW2 Riser BD/P
 1,1/9/2017 00:00:00,5245.00,L2 & L3 N,261) L3 Core 2 Tenant N Riser BD/TNW2L(P)/L3
-1,1/9/2017 00:00:00,3094.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 "new"
+1,1/9/2017 00:00:00,3094.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 new
 1,1/9/2017 00:00:00,3156.00,L2 & L3 N,268) L2 Core 1 Tenant NW Riser BD/TNW1L/L2
 1,1/9/2017 00:00:00,4534.00,L2 & L3 N,271) L2 Core 2 Tenant N Riser BD/TNW2L(P)/L2
 1,1/9/2017 00:00:00,2978.00,L2 & L3 N,272) L2 Core 1 Tenant NE Riser BD/TNE1L/L2
@@ -335,7 +335,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/9/2017 00:00:00,8838.00,L2 & L3 N,Common Area
 1,1/9/2017 00:00:00,980.00,L2 & L3 N,i) 258) L3 Core 1 Tenant NW Riser BD/TNW1L/L3
 1,1/9/2017 00:00:00,1782.00,Level 10,0) L10 Core 1 Tenant NW Riser BD/TNW1P/L10 & New
-1,1/9/2017 00:00:00,2362.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10 & New
+1,1/9/2017 00:00:00,2362.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10  & New
 1,1/9/2017 00:00:00,8.00,Level 10,0) L10 Core 2 Comms supply & New
 1,1/9/2017 00:00:00,954.00,Level 10,0) L10 Core 2 Tenant N Riser BD/TNW2P/L10 & New
 1,1/9/2017 00:00:00,1380.00,Level 10,191) L10 Core 1 Tenant NW Riser BD/TNW1L/L10
@@ -380,7 +380,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/10/2017 00:00:00,5708.00,L2 & L3 N,0) L3 Core 2 Tenant N Riser BD/TNW2L/L1
 1,1/10/2017 00:00:00,4372.00,L2 & L3 N,0) L3 Core 2 Tenant NW2 Riser BD/P
 1,1/10/2017 00:00:00,5506.00,L2 & L3 N,261) L3 Core 2 Tenant N Riser BD/TNW2L(P)/L3
-1,1/10/2017 00:00:00,3496.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 "new"
+1,1/10/2017 00:00:00,3496.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 new
 1,1/10/2017 00:00:00,3457.00,L2 & L3 N,268) L2 Core 1 Tenant NW Riser BD/TNW1L/L2
 1,1/10/2017 00:00:00,5049.00,L2 & L3 N,271) L2 Core 2 Tenant N Riser BD/TNW2L(P)/L2
 1,1/10/2017 00:00:00,3213.00,L2 & L3 N,272) L2 Core 1 Tenant NE Riser BD/TNE1L/L2
@@ -393,7 +393,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/10/2017 00:00:00,10648.00,L2 & L3 N,Common Area
 1,1/10/2017 00:00:00,2047.00,L2 & L3 N,i) 258) L3 Core 1 Tenant NW Riser BD/TNW1L/L3
 1,1/10/2017 00:00:00,1827.00,Level 10,0) L10 Core 1 Tenant NW Riser BD/TNW1P/L10 & New
-1,1/10/2017 00:00:00,2509.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10 & New
+1,1/10/2017 00:00:00,2509.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10  & New
 1,1/10/2017 00:00:00,1.00,Level 10,0) L10 Core 2 Comms supply & New
 1,1/10/2017 00:00:00,1051.00,Level 10,0) L10 Core 2 Tenant N Riser BD/TNW2P/L10 & New
 1,1/10/2017 00:00:00,1481.00,Level 10,191) L10 Core 1 Tenant NW Riser BD/TNW1L/L10
@@ -438,7 +438,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/11/2017 00:00:00,5304.00,L2 & L3 N,0) L3 Core 2 Tenant N Riser BD/TNW2L/L1
 1,1/11/2017 00:00:00,3921.00,L2 & L3 N,0) L3 Core 2 Tenant NW2 Riser BD/P
 1,1/11/2017 00:00:00,4622.00,L2 & L3 N,261) L3 Core 2 Tenant N Riser BD/TNW2L(P)/L3
-1,1/11/2017 00:00:00,2927.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 "new"
+1,1/11/2017 00:00:00,2927.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 new
 1,1/11/2017 00:00:00,3136.00,L2 & L3 N,268) L2 Core 1 Tenant NW Riser BD/TNW1L/L2
 1,1/11/2017 00:00:00,4333.00,L2 & L3 N,271) L2 Core 2 Tenant N Riser BD/TNW2L(P)/L2
 1,1/11/2017 00:00:00,3065.00,L2 & L3 N,272) L2 Core 1 Tenant NE Riser BD/TNE1L/L2
@@ -451,7 +451,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/11/2017 00:00:00,8898.00,L2 & L3 N,Common Area
 1,1/11/2017 00:00:00,1426.00,L2 & L3 N,i) 258) L3 Core 1 Tenant NW Riser BD/TNW1L/L3
 1,1/11/2017 00:00:00,1643.00,Level 10,0) L10 Core 1 Tenant NW Riser BD/TNW1P/L10 & New
-1,1/11/2017 00:00:00,2273.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10 & New
+1,1/11/2017 00:00:00,2273.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10  & New
 1,1/11/2017 00:00:00,1.00,Level 10,0) L10 Core 2 Comms supply & New
 1,1/11/2017 00:00:00,963.00,Level 10,0) L10 Core 2 Tenant N Riser BD/TNW2P/L10 & New
 1,1/11/2017 00:00:00,1347.00,Level 10,191) L10 Core 1 Tenant NW Riser BD/TNW1L/L10
@@ -496,7 +496,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/12/2017 00:00:00,5320.00,L2 & L3 N,0) L3 Core 2 Tenant N Riser BD/TNW2L/L1
 1,1/12/2017 00:00:00,3798.00,L2 & L3 N,0) L3 Core 2 Tenant NW2 Riser BD/P
 1,1/12/2017 00:00:00,4600.00,L2 & L3 N,261) L3 Core 2 Tenant N Riser BD/TNW2L(P)/L3
-1,1/12/2017 00:00:00,2508.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 "new"
+1,1/12/2017 00:00:00,2508.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 new
 1,1/12/2017 00:00:00,2936.00,L2 & L3 N,268) L2 Core 1 Tenant NW Riser BD/TNW1L/L2
 1,1/12/2017 00:00:00,4203.00,L2 & L3 N,271) L2 Core 2 Tenant N Riser BD/TNW2L(P)/L2
 1,1/12/2017 00:00:00,2314.00,L2 & L3 N,272) L2 Core 1 Tenant NE Riser BD/TNE1L/L2
@@ -509,7 +509,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/12/2017 00:00:00,9082.00,L2 & L3 N,Common Area
 1,1/12/2017 00:00:00,1495.00,L2 & L3 N,i) 258) L3 Core 1 Tenant NW Riser BD/TNW1L/L3
 1,1/12/2017 00:00:00,1529.00,Level 10,0) L10 Core 1 Tenant NW Riser BD/TNW1P/L10 & New
-1,1/12/2017 00:00:00,2277.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10 & New
+1,1/12/2017 00:00:00,2277.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10  & New
 1,1/12/2017 00:00:00,1.00,Level 10,0) L10 Core 2 Comms supply & New
 1,1/12/2017 00:00:00,902.00,Level 10,0) L10 Core 2 Tenant N Riser BD/TNW2P/L10 & New
 1,1/12/2017 00:00:00,1359.00,Level 10,191) L10 Core 1 Tenant NW Riser BD/TNW1L/L10
@@ -554,7 +554,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/1/2018 00:00:00,5266.00,L2 & L3 N,0) L3 Core 2 Tenant N Riser BD/TNW2L/L1
 1,1/1/2018 00:00:00,3981.00,L2 & L3 N,0) L3 Core 2 Tenant NW2 Riser BD/P
 1,1/1/2018 00:00:00,5168.00,L2 & L3 N,261) L3 Core 2 Tenant N Riser BD/TNW2L(P)/L3
-1,1/1/2018 00:00:00,3151.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 "new"
+1,1/1/2018 00:00:00,3151.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 new
 1,1/1/2018 00:00:00,3234.00,L2 & L3 N,268) L2 Core 1 Tenant NW Riser BD/TNW1L/L2
 1,1/1/2018 00:00:00,4643.00,L2 & L3 N,271) L2 Core 2 Tenant N Riser BD/TNW2L(P)/L2
 1,1/1/2018 00:00:00,3093.00,L2 & L3 N,272) L2 Core 1 Tenant NE Riser BD/TNE1L/L2
@@ -567,7 +567,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/1/2018 00:00:00,9671.00,L2 & L3 N,Common Area
 1,1/1/2018 00:00:00,1493.00,L2 & L3 N,i) 258) L3 Core 1 Tenant NW Riser BD/TNW1L/L3
 1,1/1/2018 00:00:00,1722.00,Level 10,0) L10 Core 1 Tenant NW Riser BD/TNW1P/L10 & New
-1,1/1/2018 00:00:00,2487.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10 & New
+1,1/1/2018 00:00:00,2487.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10  & New
 1,1/1/2018 00:00:00,1.00,Level 10,0) L10 Core 2 Comms supply & New
 1,1/1/2018 00:00:00,1103.00,Level 10,0) L10 Core 2 Tenant N Riser BD/TNW2P/L10 & New
 1,1/1/2018 00:00:00,1435.00,Level 10,191) L10 Core 1 Tenant NW Riser BD/TNW1L/L10
@@ -612,7 +612,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/2/2018 00:00:00,5516.00,L2 & L3 N,0) L3 Core 2 Tenant N Riser BD/TNW2L/L1
 1,1/2/2018 00:00:00,4157.00,L2 & L3 N,0) L3 Core 2 Tenant NW2 Riser BD/P
 1,1/2/2018 00:00:00,4652.00,L2 & L3 N,261) L3 Core 2 Tenant N Riser BD/TNW2L(P)/L3
-1,1/2/2018 00:00:00,3029.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 "new"
+1,1/2/2018 00:00:00,3029.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 new
 1,1/2/2018 00:00:00,3329.00,L2 & L3 N,268) L2 Core 1 Tenant NW Riser BD/TNW1L/L2
 1,1/2/2018 00:00:00,4525.00,L2 & L3 N,271) L2 Core 2 Tenant N Riser BD/TNW2L(P)/L2
 1,1/2/2018 00:00:00,3055.00,L2 & L3 N,272) L2 Core 1 Tenant NE Riser BD/TNE1L/L2
@@ -625,7 +625,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/2/2018 00:00:00,9559.00,L2 & L3 N,Common Area
 1,1/2/2018 00:00:00,1493.00,L2 & L3 N,i) 258) L3 Core 1 Tenant NW Riser BD/TNW1L/L3
 1,1/2/2018 00:00:00,1875.00,Level 10,0) L10 Core 1 Tenant NW Riser BD/TNW1P/L10 & New
-1,1/2/2018 00:00:00,2866.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10 & New
+1,1/2/2018 00:00:00,2866.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10  & New
 1,1/2/2018 00:00:00,1.00,Level 10,0) L10 Core 2 Comms supply & New
 1,1/2/2018 00:00:00,880.00,Level 10,0) L10 Core 2 Tenant N Riser BD/TNW2P/L10 & New
 1,1/2/2018 00:00:00,1451.00,Level 10,191) L10 Core 1 Tenant NW Riser BD/TNW1L/L10
@@ -670,7 +670,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/3/2018 00:00:00,5128.00,L2 & L3 N,0) L3 Core 2 Tenant N Riser BD/TNW2L/L1
 1,1/3/2018 00:00:00,4225.00,L2 & L3 N,0) L3 Core 2 Tenant NW2 Riser BD/P
 1,1/3/2018 00:00:00,5147.00,L2 & L3 N,261) L3 Core 2 Tenant N Riser BD/TNW2L(P)/L3
-1,1/3/2018 00:00:00,2249.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 "new"
+1,1/3/2018 00:00:00,2249.00,L2 & L3 N,262) L3 Core 1 Tenant NE Riser BD/TNE1L/L3 new
 1,1/3/2018 00:00:00,3133.00,L2 & L3 N,268) L2 Core 1 Tenant NW Riser BD/TNW1L/L2
 1,1/3/2018 00:00:00,4284.00,L2 & L3 N,271) L2 Core 2 Tenant N Riser BD/TNW2L(P)/L2
 1,1/3/2018 00:00:00,2043.00,L2 & L3 N,272) L2 Core 1 Tenant NE Riser BD/TNE1L/L2
@@ -683,7 +683,7 @@ Site,DateDay,SumOfKwh,Level,Meter
 1,1/3/2018 00:00:00,9571.00,L2 & L3 N,Common Area
 1,1/3/2018 00:00:00,1423.00,L2 & L3 N,i) 258) L3 Core 1 Tenant NW Riser BD/TNW1L/L3
 1,1/3/2018 00:00:00,1649.00,Level 10,0) L10 Core 1 Tenant NW Riser BD/TNW1P/L10 & New
-1,1/3/2018 00:00:00,3037.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10 & New
+1,1/3/2018 00:00:00,3037.00,Level 10,0) L10 Core 1 Tenant SW Riser BD/TSW1P/L10  & New
 1,1/3/2018 00:00:00,1.00,Level 10,0) L10 Core 2 Comms supply & New
 1,1/3/2018 00:00:00,986.00,Level 10,0) L10 Core 2 Tenant N Riser BD/TNW2P/L10 & New
 1,1/3/2018 00:00:00,1325.00,Level 10,191) L10 Core 1 Tenant NW Riser BD/TNW1L/L10
